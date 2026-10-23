@@ -15,14 +15,14 @@ A data-driven look at the Manhattan vacation-rental market for an investor decid
 ## Key findings
 
 - Identified the **10 highest-demand neighborhoods** in Manhattan for vacation-rental investment
-- **1-bedroom properties are the most prevalent** rental type — but the best opportunity is size-by-neighborhood specific: **studios are the preferred size for Midtown**
+- **1-bedroom properties are the most prevalent** rental type – but the best opportunity is size-by-neighborhood specific: **studios are the preferred size for Midtown**
 - A Midtown studio stood out with **$29,940 in 30-day revenue** and an estimated **$359,280 annual revenue opportunity**
 - Recommendations are given per neighborhood, pairing each area with the property size its demand pattern supports
 
 ## Repository contents
 
-- `README.md` — this overview and the documented findings
-- **Coming to this repo:** the Excel workbook (listings + calendar analysis with PivotTables) and supporting charts/screenshots, which will be added alongside the findings documented here
+- `README.md` – this overview and the documented findings
+- **Included in this repo:** `NYC_Airbnb_Project_FINAL.xlsx` – the Excel workbook (listings + calendar analysis with PivotTables) and supporting charts/screenshots
 
 ## Links
 
@@ -32,4 +32,4 @@ A data-driven look at the Manhattan vacation-rental market for an investor decid
 
 ---
 
-By **Clement Fawari** — Business Intelligence & Data Analyst, founder of **Consult 5.0** (BI dashboards, data analytics, and reporting for small businesses, online brands, and vacation-rental owners).
+By **Clement Fawari** – Business Intelligence & Data Analyst, founder of **Consult 5.0** (BI dashboards, data analytics, and reporting for small businesses, online brands, and vacation-rental owners).
